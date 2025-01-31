@@ -1,2 +1,7 @@
 # hello-world
-My first Github Repository!
+## **Course**: ESS 330
+## **Name**: Emily Mitchell
+## **Year**: 2
+## **Major**: ESS
+## **OS**: Mac
+
