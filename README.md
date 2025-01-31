@@ -1,7 +1,7 @@
 # hello-world
 ## **Course**: ESS 330
 ## **Name**: Emily Mitchell
-## **Year**: 2
+## **Year**: Junior
 ## **Major**: ESS
 ## **OS**: Mac
 
